@@ -1,7 +1,7 @@
 apiVersion: pulumi.com/v1
 kind: Stack
 metadata:
-  name: security-scanner-dev
+  name: security-scanner-dev-2
   namespace: default
 spec:
   serviceAccountName: pulumi
