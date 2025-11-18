@@ -28,5 +28,5 @@ spec:
   stack: elisabeth-demo/security-scanner/qa
   projectRepo: https://github.com/lichtie/security-scanner
   repoDir: .
-  commit: 3a319d1fc75bc8f9e8044588d652458e4c7a436a
+  commit: 9350cbbd674311f575e0cdf6b7a19dbbdc8e6151
   destroyOnFinalize: true
