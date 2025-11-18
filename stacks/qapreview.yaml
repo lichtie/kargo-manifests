@@ -29,5 +29,5 @@ spec:
   preview: true
   projectRepo: https://github.com/lichtie/security-scanner
   repoDir: .
-  commit: 9350cbbd674311f575e0cdf6b7a19dbbdc8e6151
+  commit: 83a110c39915d109a0d3f7612ec2390cbc9a156a
   destroyOnFinalize: true
